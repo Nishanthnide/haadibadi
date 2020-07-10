@@ -1,0 +1,31 @@
+.custom_content_justify{
+   text-align: justify; !important
+   align-content:stretch; !important
+}
+.custom_width_percentage-10{
+    width:10% !important;
+}
+.custom_width_percentage-50{
+    width:50% !important;
+}
+.custom_width_percentage-20{
+    width:20% !important;
+}
+.custom_table_style{
+    color: #222222;
+    line-height: 40px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.custom_table_header{
+    font-size: 20px;
+}
+.custom_border_black{
+    border:1px solid grey !important;
+}
+.custom_margin_top_30{
+    margin-top: 30px;
+}
+.custom_margin_bottom_10 {
+    margin-bottom: 10px;
+}
